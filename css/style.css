@@ -1,0 +1,29 @@
+body{
+	margin:0;
+	padding: 0;
+	background-color: #bebebe;
+}
+.top{
+	background-color: rgb(230, 3, 3);
+	color: white;
+}
+.judul{
+	font-size: 12pt;
+    padding: 10px;
+    font-weight: bold;
+}
+.link{
+	margin-top: 20px;
+}
+.links li a {
+	color: white;
+
+}
+.links li a:hover{
+	background-color: rgb(44, 44, 44);
+	color: #0045d8;
+}
+
+.links li{
+	background-color: rgb(44, 44, 44);
+}
